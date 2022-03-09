@@ -1,0 +1,45 @@
+header {
+  margin-bottom: 100px;
+
+  .logo-container {
+    display: flex;
+    align-items: start;
+    margin-bottom: 50px;
+
+    .header-logo {
+      max-width: 500px;
+    }
+
+    .header-help-container {
+      position: relative;
+      width: 20px;
+      cursor: pointer;
+    }
+
+    .header-help-container::after {
+      font-family: brandon-grotesque, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 1rem;
+      position: absolute;
+      content: attr(tooltip);
+      background-color: #474747;
+      border-radius: 0.5rem;
+      color: white;
+      top: 100%;
+      left: 50%;
+      transform: translate(-50%, 0);
+      min-width: 400px;
+      padding: 0.5rem;
+      cursor: default;
+      opacity: 0;
+      pointer-events: none;
+      transition: linear 0.05s;
+    }
+
+    .header-help-container:hover::after {
+      opacity: 1;
+      transition: linear 0.05s;
+    }
+  }
+}

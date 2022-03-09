@@ -1,0 +1,69 @@
+.recs-container p {
+  margin-bottom: 25px;
+}
+.recs-container button {
+  background-color: #7fddb9;
+  padding: 0.5rem;
+  border-radius: 0.75rem;
+  min-height: 3.5rem;
+  min-width: 3.5rem;
+  cursor: pointer;
+  transition: linear 0.05s;
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.75rem;
+  line-height: 2rem;
+  color: white;
+  margin-bottom: 25px;
+}
+.recs-container button img {
+  width: 1.5rem;
+}
+.recs-container button:hover {
+  background-color: #22b573;
+  transition: linear 0.05s;
+}
+.recs-container .rec-container {
+  display: flex;
+}
+.recs-container .rec-container img {
+  width: 60px;
+  margin-right: 25px;
+  transform: translateY(-5%);
+}
+.recs-container .rec-container .rec-info {
+  display: flex;
+  flex-direction: columns;
+  align-items: center;
+  gap: 40px;
+}
+.recs-container .rec-container .rec-info .rec-info-datapoint {
+  height: 100%;
+}
+.recs-container .rec-container .rec-info .rec-info-datapoint h2 {
+  display: inline-block;
+}
+.recs-container .rec-container .rec-info .rec-info-datapoint .rec-info-datapoint-labels {
+  display: inline-block;
+  height: 100%;
+  transform: translateY(-20%);
+}
+.recs-container .rec-container .rec-info .rec-info-datapoint .rec-info-datapoint-labels .rec-info-datapoint-flexbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.5rem;
+  height: 100%;
+}
+.recs-container .rec-container .rec-info .rec-info-datapoint .rec-info-datapoint-labels .rec-info-datapoint-flexbox img {
+  width: 30px;
+  flex-basis: 0;
+}
+.recs-container .rec-container .rec-info .rec-info-datapoint .rec-info-datapoint-labels .rec-info-datapoint-flexbox p {
+  font-size: 2rem;
+  color: #22b573;
+  flex-basis: 0;
+}
+
+/*# sourceMappingURL=recs.css.map */

@@ -1,0 +1,42 @@
+@import url("https://use.typekit.net/lzf7gas.css");
+h1 {
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 3rem;
+  color: #22b573;
+  cursor: default;
+}
+
+h2 {
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 6rem;
+  color: #333333;
+  cursor: default;
+}
+
+p {
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.75rem;
+  line-height: 2rem;
+  color: #333333;
+  cursor: default;
+}
+p .green-text {
+  color: #22b573;
+}
+
+input {
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.75rem;
+  line-height: 2rem;
+  color: white;
+}
+
+/*# sourceMappingURL=typography.css.map */

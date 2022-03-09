@@ -1,0 +1,93 @@
+.list-container {
+  margin-bottom: 100px;
+
+  p {
+    padding-bottom: 25px;
+  }
+
+  .plant-container {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+
+    input {
+      background-color: #7fddb9;
+      padding: 0.5rem;
+      border-radius: 0.75rem;
+      caret-color: transparent;
+    }
+
+    input:focus {
+      background-color: #22b573;
+      transition: linear 0.05s;
+    }
+
+    input::placeholder {
+      color: white;
+      opacity: 1;
+    }
+
+    div {
+      position: relative;
+
+      .plant-suggestions-container {
+        position: absolute;
+        font-family: brandon-grotesque, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1rem;
+        background-color: #474747;
+        border-radius: 0.5rem;
+        color: white;
+        padding: 0.5rem;
+        transform: translateY(50px);
+        right: 0;
+        width: max-content;
+      }
+
+      .plant-suggestions-container ul li {
+        cursor: pointer;
+      }
+
+      .plant-suggestions-container ul li:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .plant-data-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 1rem 0;
+    column-gap: 2rem;
+    max-width: fit-content;
+
+    p {
+      font-size: 1.25rem;
+      line-height: 0.25rem;
+
+      span {
+        color: #22b573;
+      }
+    }
+  }
+
+  button {
+    background-color: #7fddb9;
+    padding: 0.5rem;
+    border-radius: 0.75rem;
+    min-height: 3.5rem;
+    min-width: 3.5rem;
+    cursor: pointer;
+    transition: linear 0.05s;
+
+    img {
+      width: 1.5rem;
+    }
+  }
+
+  button:hover {
+    background-color: #22b573;
+    transition: linear 0.05s;
+  }
+}

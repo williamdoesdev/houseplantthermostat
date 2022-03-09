@@ -1,0 +1,12 @@
+.container {
+  background-color: #d0ebde;
+  min-height: 100vh;
+}
+
+.app-panel {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: #fff;
+  min-height: calc(100vh - 100px);
+}
