@@ -70,3 +70,7 @@ yarn-error.log
 
 # Sass Map files
 *.map
+
+#Prettier files
+.prettierrc
+.prettierignore
