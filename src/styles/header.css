@@ -39,4 +39,10 @@ header .logo-container .header-help-container:hover::after {
   transition: linear 0.05s;
 }
 
+@media screen and (max-width: 850px) {
+  header p {
+    font-size: 1.25rem;
+  }
+}
+
 /*# sourceMappingURL=header.css.map */

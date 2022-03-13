@@ -33,7 +33,7 @@
     display: flex;
 
     img {
-      width: 60 + px;
+      width: 60px;
       margin-right: 25px;
       transform: translateY(-5%);
     }
@@ -45,6 +45,7 @@
 
       .rec-info-datapoint {
         height: 100%;
+        min-width: 117px;
 
         h2 {
           display: inline-block;
@@ -71,6 +72,51 @@
               font-size: 2rem;
               color: #22b573;
               flex-basis: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .recs-container {
+    h1 {
+      font-size: 1.75rem;
+    }
+    p {
+      font-size: 1.25rem;
+    }
+    button {
+      padding: 0.25rem;
+      min-height: 2.5rem;
+      min-width: 2.5rem;
+      font-size: 1.25rem;
+    }
+    .rec-container {
+      img {
+        width: 30px;
+        transform: translateY(-15%);
+        margin-right: 10px;
+      }
+      .rec-info {
+        gap: 0px;
+        .rec-info-datapoint {
+          h2 {
+            font-size: 3rem;
+          }
+
+          .rec-info-datapoint-labels {
+            .rec-info-datapoint-flexbox {
+              gap: 0.0125rem;
+              img {
+                width: 15px;
+              }
+
+              p {
+                font-size: 1.25rem;
+              }
             }
           }
         }

@@ -40,6 +40,7 @@
 }
 .recs-container .rec-container .rec-info .rec-info-datapoint {
   height: 100%;
+  min-width: 117px;
 }
 .recs-container .rec-container .rec-info .rec-info-datapoint h2 {
   display: inline-block;
@@ -64,6 +65,41 @@
   font-size: 2rem;
   color: #22b573;
   flex-basis: 0;
+}
+
+@media screen and (max-width: 850px) {
+  .recs-container h1 {
+    font-size: 1.75rem;
+  }
+  .recs-container p {
+    font-size: 1.25rem;
+  }
+  .recs-container button {
+    padding: 0.25rem;
+    min-height: 2.5rem;
+    min-width: 2.5rem;
+    font-size: 1.25rem;
+  }
+  .recs-container .rec-container img {
+    width: 30px;
+    transform: translateY(-15%);
+    margin-right: 10px;
+  }
+  .recs-container .rec-container .rec-info {
+    gap: 0px;
+  }
+  .recs-container .rec-container .rec-info .rec-info-datapoint h2 {
+    font-size: 3rem;
+  }
+  .recs-container .rec-container .rec-info .rec-info-datapoint .rec-info-datapoint-labels .rec-info-datapoint-flexbox {
+    gap: 0.0125rem;
+  }
+  .recs-container .rec-container .rec-info .rec-info-datapoint .rec-info-datapoint-labels .rec-info-datapoint-flexbox img {
+    width: 15px;
+  }
+  .recs-container .rec-container .rec-info .rec-info-datapoint .rec-info-datapoint-labels .rec-info-datapoint-flexbox p {
+    font-size: 1.25rem;
+  }
 }
 
 /*# sourceMappingURL=recs.css.map */

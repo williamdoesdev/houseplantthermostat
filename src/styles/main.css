@@ -1,4 +1,5 @@
 .container {
+  background-color: #7fddb9;
   background-image: url("../assets/leaftiles.svg");
   background-size: 500px;
   min-height: 100vh;
@@ -10,6 +11,12 @@
   padding: 50px;
   background-color: #fff;
   min-height: calc(100vh - 100px);
+}
+
+@media screen and (max-width: 850px) {
+  .app-panel {
+    padding: 25px;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */

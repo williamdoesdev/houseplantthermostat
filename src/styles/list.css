@@ -6,6 +6,7 @@
 }
 .list-container .plant-container {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
   margin-bottom: 0.5rem;
 }
@@ -75,6 +76,38 @@
 .list-container button:hover {
   background-color: #22b573;
   transition: linear 0.05s;
+}
+
+@media screen and (max-width: 850px) {
+  .list-container h1 {
+    font-size: 1.75rem;
+  }
+  .list-container p {
+    font-size: 1.25rem;
+  }
+  .list-container .plant-container input {
+    font-size: 1.25rem;
+    line-height: 15px;
+  }
+  .list-container .plant-data-container {
+    grid-template-columns: 1fr 1fr;
+  }
+  .list-container .plant-data-container p {
+    font-size: 1rem;
+  }
+  .list-container button {
+    padding: 0.25rem;
+    min-height: 2.5rem;
+    min-width: 2.5rem;
+  }
+  .list-container button img {
+    width: 1rem;
+  }
+}
+@media screen and (max-width: 500px) {
+  .list-container .plant-data-container {
+    grid-template-columns: 1fr;
+  }
 }
 
 /*# sourceMappingURL=list.css.map */
