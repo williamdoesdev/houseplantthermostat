@@ -1,5 +1,6 @@
 .container {
-  background-color: #7fddb9;
+  background-image: url("../assets/leaftiles.svg");
+  background-size: 500px;
   min-height: 100vh;
 }
 

@@ -1,15 +1,15 @@
-import React, { useState } from "react"
+import React, { useState } from "react";
 
-import Header from "../components/header"
-import List from "../components/list"
-import Recs from "../components/recs"
+import Header from "../components/header";
+import List from "../components/list";
+import Recs from "../components/recs";
 
-import "../styles/typography.css"
-import "../styles/resets.css"
-import "../styles/main.css"
+import "../styles/typography.css";
+import "../styles/resets.css";
+import "../styles/main.css";
 
 export default function Home() {
-  const [selectedPlants, setSelectedPlants] = useState([])
+  const [selectedPlants, setSelectedPlants] = useState([]);
 
   return (
     <div className="container">
@@ -19,5 +19,5 @@ export default function Home() {
         <Recs selectedPlants={selectedPlants} />
       </div>
     </div>
-  )
+  );
 }
