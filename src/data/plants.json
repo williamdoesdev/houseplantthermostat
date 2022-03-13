@@ -640,5 +640,1274 @@
       "maximum": 85
     },
     "toxic": true
+  },
+  {
+    "commonNames": ["Dragon Plant"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 30,
+      "maximum": 70
+    },
+    "nativeTo": "Madagascar",
+    "propagation": ["Cuttings"],
+    "scientificName": "Dracaena Marginata",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Dumb Cane"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 55,
+      "minimum": 40,
+      "maximum": 80
+    },
+    "nativeTo": "Brazil",
+    "propagation": ["Cuttings"],
+    "scientificName": "Dieffenbachia hybrid",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Elephant's Ear", "Elephant Ear"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 100
+    },
+    "nativeTo": "Tropical Asia",
+    "propagation": ["Division"],
+    "scientificName": "Alocasia Amazonica",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["English Ivy"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 50,
+      "minimum": 40,
+      "maximum": 70
+    },
+    "nativeTo": "Europe",
+    "propagation": ["Cuttings"],
+    "scientificName": "Hedera Helix",
+    "temp": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["European Fan Palm"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 30,
+      "maximum": 70
+    },
+    "nativeTo": "Europe",
+    "propagation": ["Seeds"],
+    "scientificName": "Chamaerops Humilis",
+    "temp": {
+      "ideal": 75,
+      "minimum": 70,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["False Aralia"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 50,
+      "minimum": 65,
+      "maximum": 70
+    },
+    "nativeTo": "South Pacific",
+    "propagation": ["Seeds", "Cuttings"],
+    "scientificName": "Dizygotheca Elegantissima",
+    "temp": {
+      "ideal": 65,
+      "minimum": 75,
+      "maximum": 85
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Fiber Optic Grass"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 30,
+      "maximum": 60
+    },
+    "nativeTo": "Europe and North Africa",
+    "propagation": ["Seeds", "Division"],
+    "scientificName": "Isolepis Cernua",
+    "temp": {
+      "ideal": 65,
+      "minimum": 73,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Ficus Alii"],
+    "fertilizer": {
+      "interval": 8,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 45,
+      "minimum": 35,
+      "maximum": 55
+    },
+    "nativeTo": 0,
+    "propagation": ["Cuttings"],
+    "scientificName": "Ficus Binnendiijkii",
+    "temp": {
+      "ideal": 65,
+      "minimum": 70,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Fiddle Leaf Fig"],
+    "fertilizer": {
+      "interval": 12,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 45,
+      "minimum": 35,
+      "maximum": 55
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Cuttings"],
+    "scientificName": "Ficus Lyrata",
+    "temp": {
+      "ideal": 65,
+      "minimum": 70,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Fire Flash Plant"],
+    "fertilizer": {
+      "interval": 12,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 100
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Division"],
+    "scientificName": "Chlorophytum Orchidastrum",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Fishtail Palm"],
+    "fertilizer": {
+      "interval": 52,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 100
+    },
+    "nativeTo": "Southeast Asia",
+    "propagation": ["Seeds"],
+    "scientificName": "Caryota Mitis",
+    "temp": {
+      "ideal": 75,
+      "minimum": 65,
+      "maximum": 85
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Foxtail Fern"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 50,
+      "minimum": 35,
+      "maximum": 70
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Division"],
+    "scientificName": "Asparagus Densiflorus",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Friendship Plant"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 100
+    },
+    "nativeTo": "South America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Pilea involucrata",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Gold Dust Plant"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 55,
+      "minimum": 40,
+      "maximum": 70
+    },
+    "nativeTo": "East Asia",
+    "propagation": ["Seeds", "Cuttings"],
+    "scientificName": "Aucuba Japonica",
+    "temp": {
+      "ideal": 60,
+      "minimum": 45,
+      "maximum": 70
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Grape Ivy"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 50,
+      "minimum": 40,
+      "maximum": 60
+    },
+    "nativeTo": "South America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Cissus Rhombifolia",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Heartleaf Philodendron"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 60,
+      "minimum": 40,
+      "maximum": 80
+    },
+    "nativeTo": "South America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Philodendron Scandens",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Holly Fern"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 50,
+      "minimum": 40,
+      "maximum": 60
+    },
+    "nativeTo": "East Asia",
+    "propagation": ["Division"],
+    "scientificName": "Cyrtomium Falcatum",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Inch Plant"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 45,
+      "maximum": 80
+    },
+    "nativeTo": "South America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Tradescantia Zebrina",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Bloodleaf", "Joseph's Coat", "Bloodleaf Plant"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 90
+    },
+    "nativeTo": "Brazil",
+    "propagation": ["Cuttings"],
+    "scientificName": "Iresine Herbstii",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Iron Cross Begonia", "Iron Cross Plant"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:5"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 90
+    },
+    "nativeTo": "Southeast Asia",
+    "propagation": ["Cuttings"],
+    "scientificName": "Begonia Masoniana",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": [
+      "Janet Craig Dracaena",
+      "Janet Craig Plant",
+      "Striped Dracaena",
+      "Warneckei Dracaena"
+    ],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 60,
+      "minimum": 40,
+      "maximum": 70
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Cuttings"],
+    "scientificName": "Dracaena Deremensis",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": [
+      "Japanese Aralia",
+      "Glossy-leaved Paper Plant",
+      "Big-leaf Paper Plant"
+    ],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 60,
+      "minimum": 45,
+      "maximum": 70
+    },
+    "nativeTo": "Japan",
+    "propagation": ["Cuttings"],
+    "scientificName": "Fatsia Japonica",
+    "temp": {
+      "ideal": 60,
+      "minimum": 50,
+      "maximum": 65
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Jerusalem Cherry", "Natal Cherry", "Winter Cherry"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:8:10"
+    },
+    "humidity": {
+      "ideal": 45,
+      "minimum": 40,
+      "maximum": 50
+    },
+    "nativeTo": "Brazil",
+    "propagation": ["Seeds", "Cuttings"],
+    "scientificName": "Solanum Pseudocapsicum",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Corkscrew Rush"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 45,
+      "minimum": 40,
+      "maximum": 50
+    },
+    "nativeTo": "Japan",
+    "propagation": ["Division"],
+    "scientificName": "Solanum Pseudocapsicum",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Lady Palm"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 80
+    },
+    "nativeTo": "China",
+    "propagation": ["Seeds"],
+    "scientificName": "Rhapis Excelsa",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Lucky Bamboo"],
+    "fertilizer": {
+      "interval": 8,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 30,
+      "maximum": 60
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Cuttings"],
+    "scientificName": "Dracaena Sanderiana",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Maidenhair Fern"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 60,
+      "minimum": 50,
+      "maximum": 80
+    },
+    "nativeTo": "South America",
+    "propagation": ["Division"],
+    "scientificName": "Adiantum Raddianum",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Ming Aralia"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 60,
+      "minimum": 50,
+      "maximum": 80
+    },
+    "nativeTo": "Southeast Asia",
+    "propagation": ["Division"],
+    "scientificName": "Polyscias Fruticosa",
+    "temp": {
+      "ideal": 75,
+      "minimum": 65,
+      "maximum": 85
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Money Tree"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 60,
+      "minimum": 50,
+      "maximum": 80
+    },
+    "nativeTo": "South America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Pachira Aquatica",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Swiss Cheese Vine (Adansonii)"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 100
+    },
+    "nativeTo": "South America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Monstera Adansonii",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Moses in the Cradle"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 35,
+      "maximum": 60
+    },
+    "nativeTo": "Mexico",
+    "propagation": ["Division"],
+    "scientificName": "Tradescantia Spathacea",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Angel Vine"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 30,
+      "maximum": 60
+    },
+    "nativeTo": "New Zealand",
+    "propagation": ["Cuttings"],
+    "scientificName": "Muehlenbeckia Complexa",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Nerve Plant", "Jewel Plant", "Mosaic Plant"],
+    "fertilizer": {
+      "interval": 10,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 75
+    },
+    "nativeTo": "South America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Fittonia verschaffeltii",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Australian Pine", "Norfolk Pine", "House Pine"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 75
+    },
+    "nativeTo": "Oceania",
+    "propagation": ["Seeds"],
+    "scientificName": "Araucaria Heterophylla",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Parlor Palm", "Bamboo Palm", "Good Luck Palm"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 55,
+      "minimum": 40,
+      "maximum": 75
+    },
+    "nativeTo": "Central America",
+    "propagation": ["Seeds"],
+    "scientificName": "Araucaria Heterophylla",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Peacock Plant", "Peacock Ginger"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 60,
+      "minimum": 50,
+      "maximum": 100
+    },
+    "nativeTo": "Brazil",
+    "propagation": ["Division"],
+    "scientificName": "Calathea Makoyana",
+    "temp": {
+      "ideal": 75,
+      "minimum": 65,
+      "maximum": 85
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Green Ripple Peperomia", "Little Fantasy Peperpmia"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 50,
+      "minimum": 40,
+      "maximum": 80
+    },
+    "nativeTo": "Brazil",
+    "propagation": ["Cuttings"],
+    "scientificName": "Peperomia Caperata",
+    "temp": {
+      "ideal": 75,
+      "minimum": 65,
+      "maximum": 85
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Persian Shield Plant"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 55,
+      "minimum": 50,
+      "maximum": 80
+    },
+    "nativeTo": "Southeast Asia",
+    "propagation": ["Cuttings"],
+    "scientificName": "Strobilanthes Dyerianus",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Piggyback Plant", "Mother of Thousands"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 55,
+      "minimum": 50,
+      "maximum": 70
+    },
+    "nativeTo": "North America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Tolmiea Menziesii",
+    "temp": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Malaysian Dracaena", "Song of India"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 30,
+      "maximum": 60
+    },
+    "nativeTo": "Madagascar",
+    "propagation": ["Cuttings"],
+    "scientificName": "Dracaena Reflexa",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Golden Pothos", "Devil's Ivy", "Taro Vine"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 50,
+      "minimum": 40,
+      "maximum": 70
+    },
+    "nativeTo": "Oceania",
+    "propagation": ["Cuttings"],
+    "scientificName": "Epipremnum Aureum",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Prayer Plant"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 60,
+      "minimum": 50,
+      "maximum": 100
+    },
+    "nativeTo": "Brazil",
+    "propagation": ["Cuttings"],
+    "scientificName": "Maranta leuconeura",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Rubber Plant"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 30,
+      "maximum": 70
+    },
+    "nativeTo": "Southeast Asia",
+    "propagation": ["Cuttings"],
+    "scientificName": "Ficus Elastica",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Sago Palm"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:5:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 100
+    },
+    "nativeTo": "Asia",
+    "propagation": ["Seeds"],
+    "scientificName": "Cycas Revoluta",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Satin Pothos", "Silk Pothos"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "20:10:10"
+    },
+    "humidity": {
+      "ideal": 50,
+      "minimum": 40,
+      "maximum": 80
+    },
+    "nativeTo": "Southeast Asia",
+    "propagation": ["Cuttings"],
+    "scientificName": "Scindapsus Pictus",
+    "temp": {
+      "ideal": 75,
+      "minimum": 65,
+      "maximum": 85
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Spider Plant", "Ribbon Plant"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 45,
+      "minimum": 40,
+      "maximum": 70
+    },
+    "nativeTo": "South Africa",
+    "propagation": ["Plantlets"],
+    "scientificName": "Chlorophytum Comosum",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Split Leaf Philodendron"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 55,
+      "minimum": 40,
+      "maximum": 100
+    },
+    "nativeTo": "Brazil",
+    "propagation": ["Cuttings"],
+    "scientificName": "Philodendron Bipinnatifidum",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Swiss Cheese Vine (Deliciosa)"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 55,
+      "minimum": 40,
+      "maximum": 100
+    },
+    "nativeTo": "Central America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Monstera Deliciosa",
+    "temp": {
+      "ideal": 75,
+      "minimum": 65,
+      "maximum": 85
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Watermelon Peperomia"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 65,
+      "minimum": 50,
+      "maximum": 100
+    },
+    "nativeTo": "Brazil",
+    "propagation": ["Cuttings"],
+    "scientificName": "Peperomia Argyreia",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Weeping Fig"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 60,
+      "minimum": 40,
+      "maximum": 80
+    },
+    "nativeTo": "Southeast Asia",
+    "propagation": ["Cuttings"],
+    "scientificName": "Ficus Benjamina",
+    "temp": {
+      "ideal": 75,
+      "minimum": 65,
+      "maximum": 85
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["ZZ Plant"],
+    "fertilizer": {
+      "interval": 16,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 30,
+      "maximum": 60
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Cuttings", "Division"],
+    "scientificName": "Zamioculcas Zamiifolia",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Aloe Vera", "Burn Plant"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "2:7:7"
+    },
+    "humidity": {
+      "ideal": 35,
+      "minimum": 20,
+      "maximum": 55
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Cuttings"],
+    "scientificName": "Aloe Barbadensis",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Blue Agave"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "2:7:7"
+    },
+    "humidity": {
+      "ideal": 35,
+      "minimum": 20,
+      "maximum": 55
+    },
+    "nativeTo": "North America",
+    "propagation": ["Cuttings"],
+    "scientificName": "Agave Parryi",
+    "temp": {
+      "ideal": 80,
+      "minimum": 70,
+      "maximum": 90
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Cylindrical Snake Plant"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "2:7:7"
+    },
+    "humidity": {
+      "ideal": 35,
+      "minimum": 20,
+      "maximum": 55
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Cuttings"],
+    "scientificName": "Sansevieria Cylindrica",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Sweetheart Hoya"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "2:7:7"
+    },
+    "humidity": {
+      "ideal": 55,
+      "minimum": 40,
+      "maximum": 80
+    },
+    "nativeTo": "Southeast Asia",
+    "propagation": ["Cuttings"],
+    "scientificName": "Hoya Kerrii",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": false
+  },
+  {
+    "commonNames": ["Jade Plant"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "2:7:7"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 20,
+      "maximum": 60
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Cuttings"],
+    "scientificName": "Crassula Ovata",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Snake Plant", "Mother-in-Law's Tongue"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "2:7:7"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 20,
+      "maximum": 60
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Cuttings"],
+    "scientificName": "Sansevieria Trifasciata",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["String of Pearls"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "2:7:7"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 20,
+      "maximum": 60
+    },
+    "nativeTo": "Africa",
+    "propagation": ["Cuttings"],
+    "scientificName": "Senecio Rowleyanus",
+    "temp": {
+      "ideal": 73,
+      "minimum": 65,
+      "maximum": 80
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Yucca"],
+    "fertilizer": {
+      "interval": 2,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 40,
+      "minimum": 20,
+      "maximum": 60
+    },
+    "nativeTo": "Mexico",
+    "propagation": ["Cuttings"],
+    "scientificName": "Yucca Elephantipes",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
+  },
+  {
+    "commonNames": ["Peace Lilly"],
+    "fertilizer": {
+      "interval": 4,
+      "npk": "10:10:10"
+    },
+    "humidity": {
+      "ideal": 55,
+      "minimum": 40,
+      "maximum": 75
+    },
+    "nativeTo": "South America",
+    "propagation": ["Division"],
+    "scientificName": "Spathiphyllum Wallisii",
+    "temp": {
+      "ideal": 70,
+      "minimum": 65,
+      "maximum": 75
+    },
+    "toxic": true
   }
 ]
